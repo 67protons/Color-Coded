@@ -1,7 +1,7 @@
 # Color-Coded
 Game Systems and Design (ICS 61) Class Project
 
-Color Coded was the final project of my 2014 Freshman class, ICS 61 - "Game Systems and Design" taught by professor Jain Ramesh.  I worked with two other classmates: Mingxin (Candice) Ou and Han (Michael) Mei.
+Color Coded was the final project of my 2014 Freshman class, ICS 61 - "Game Systems and Design" taught by professor Jain Ramesh at UC Irvine.  I worked with two other classmates: Mingxin (Candice) Ou and Han (Michael) Mei.
 
 The game was written solely in Pyhon using the PyGame library.
 
